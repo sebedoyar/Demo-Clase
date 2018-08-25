@@ -31,6 +31,8 @@ as
 viñeta horizontal
 
 
+# ESTA ES LA EDICION DESDE EL COMPUTADOR
+
 esta palabra esta en **negrilla**
 
 esta palabra esta en *italica*
